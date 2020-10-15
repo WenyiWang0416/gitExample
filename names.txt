@@ -1,2 +1,3 @@
+role,NetID,FamilyName,GivenName
 boss,wwang584,Wang,Wenyi
 employee,xwang2439,Xiangyu,Wang
